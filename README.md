@@ -1,6 +1,6 @@
 # asr_with_transformer_mltu    
 
-Automatic Speech Recognition with Transformer  
+Automatic Speech Recognition with Transformer and mltu  
   
 Base: Keras V2 Automatic Speech Recognition with Transformer  
 DataProvider base: mltu  
