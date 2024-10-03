@@ -59,7 +59,9 @@ import keras
 #from tensorflow.keras import layers
 from keras import layers
 
-from transformer_asr_model import Transformer,TokenEmbedding,SpeechFeatureEmbedding,TransformerEncoder,TransformerDecoder
+#from transformer_asr_model import Transformer,TokenEmbedding,SpeechFeatureEmbedding,TransformerEncoder,TransformerDecoder
+from k3_transformer_asr_model import Transformer,TokenEmbedding,SpeechFeatureEmbedding,TransformerEncoder,TransformerDecoder
+
 #from tools import *
 from tools_mltu import *
 
