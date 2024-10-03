@@ -3,6 +3,7 @@
 Automatic Speech Recognition with Transformer and mltu  
   
 Base: Keras V2 Automatic Speech Recognition with Transformer  
+But k3_transformer_asr_model.py is the same model in which Keras V3 Automatic Speech Recognition with Transformer.   
 DataProvider base: mltu  
 
 
